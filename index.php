@@ -70,8 +70,8 @@ phil covid19 count (end)
 				<tbody>
 					<tr>
 						<td align="center" width="33%">
-							<p style="font-size: 36px;">Infection:</p>
-							<h1 style="font-size: 48px; color: #B2B2B2; font-weight: bold;"><?php echo $world_infected_data; ?></h1>
+							<p style="font-size: 36px;">Infection:</p> <!--#B2B2B2-->
+							<h1 style="font-size: 48px; color: #FEAA2A; font-weight: bold;"><?php echo $world_infected_data; ?></h1>
 						</td>
 						<td align="center" width="33%">
 							<p style="font-size: 36px;">Mortality:</p>
