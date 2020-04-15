@@ -75,7 +75,7 @@ phil covid19 count (end)
 						</td>
 						<td align="center" width="33%">
 							<p style="font-size: 36px;">Mortality:</p>
-							<h1 style="font-size: 48px; color: #A60000; font-weight: bold;"><?php echo $world_mortality_data; ?></h1>
+							<h1 style="font-size: 48px; color: #000000; font-weight: bold;"><?php echo $world_mortality_data; ?></h1>
 						</td>
 						<td align="center" width="33%">
 							<p style="font-size: 36px;">Recovery:</p>
